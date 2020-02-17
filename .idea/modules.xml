@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/checkoutpage/checkoutpage.iml" filepath="$PROJECT_DIR$/checkoutpage/checkoutpage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopifyCodeCheckout.iml" filepath="$PROJECT_DIR$/shopifyCodeCheckout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopifycodecheckout/shopifycodecheckout.iml" filepath="$PROJECT_DIR$/shopifycodecheckout/shopifycodecheckout.iml" />
+    </modules>
+  </component>
+</project>
